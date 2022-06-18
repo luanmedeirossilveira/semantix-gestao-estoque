@@ -1,0 +1,82 @@
+{
+  "parts": [
+    {
+      "id": 1,
+      "partName": "Filtro de habitáculo",
+      "status": true,
+      "amount": 20,
+      "category": 1,
+      "part_ID": ""
+    },
+    {
+      "id": 2,
+      "partName": "Filtro de ar",
+      "status": false,
+      "amount": 0,
+      "category": 1
+    },
+    {
+      "id": 3,
+      "partName": "Velas de pré-aquecimento",
+      "status": true,
+      "amount": 0,
+      "category": 2,
+      "part_ID": ""
+    },
+    {
+      "id": 4,
+      "partName": "Motores de arranque e alternadores",
+      "status": false,
+      "amount": 23,
+      "category": 3,
+      "part_ID": ""
+    },
+    {
+      "id": 5,
+      "partName": "Cabos de ignição",
+      "status": true,
+      "amount": 55,
+      "category": 4
+    },
+    {
+      "id": 6,
+      "partName": "Limpa pára-brisas",
+      "status": true,
+      "amount": 2,
+      "category": 5
+    },
+    {
+      "id": 7,
+      "partName": "Bobinas de ignição",
+      "status": true,
+      "amount": 2,
+      "category": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Filtro"
+    },
+    {
+      "id": 2,
+      "name": "Velas"
+    },
+    {
+      "id": 3,
+      "name": "Motor"
+    },
+    {
+      "id": 4,
+      "name": "Cabo"
+    },
+    {
+      "id": 5,
+      "name": "Limpador"
+    },
+    {
+      "id": 6,
+      "name": "Bobina"
+    }
+  ]
+}
